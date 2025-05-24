@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-## 🔗 [Click Here To View](https://prescriptoo.vercel.app/)
+## 🔗 [Click Here To View](https://prescripto-medical-app.vercel.app/)
 
 ---
 
