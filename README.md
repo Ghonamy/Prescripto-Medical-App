@@ -61,8 +61,8 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone git clone https://github.com/Ghonamy/Prescripto.git
-cd prescripto
+git clone https://github.com/Ghonamy/Prescripto-Medical-App.git
+cd Prescripto-Medical-App
 ```
 
 ### 2. Install dependencies
